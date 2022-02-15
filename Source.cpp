@@ -16,6 +16,7 @@ int main() {
 	float n, m;
 	cin >> n >> m;
 	cout << maxFunc(n, m) << endl;
-
+	cout << "Конец";
+	cout << endl;
 	return 0;
 }
